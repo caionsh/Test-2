@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Para Minha Namorada</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: linear-gradient(to bottom, #ffcccc, #ffe6e6);
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #ff99cc;
+            color: white;
+            text-align: center;
+            padding: 20px;
+        }
+        h1 {
+            margin: 0;
+        }
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background: white;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+            border-radius: 10px;
+        }
+        .section {
+            margin-bottom: 20px;
+        }
+        .section h2 {
+            color: #ff6699;
+        }
+        .gallery img {
+            width: 100%;
+            border-radius: 10px;
+            margin-bottom: 10px;
+        }
+        footer {
+            text-align: center;
+            padding: 10px;
+            background-color: #ff99cc;
+            color: white;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Para Minha Namorada</h1>
+        <p>Seu cantinho especial, meu amor! ❤️</p>
+    </header>
+    <div class="container">
+        <div class="section">
+            <h2>Galeria de Memórias</h2>
+            <div class="gallery">
+                <img src="https://via.placeholder.com/800x400" alt="Foto 1">
+                <img src="https://via.placeholder.com/800x400" alt="Foto 2">
+            </div>
+        </div>
+        <div class="section">
+            <h2>Mensagens de Amor</h2>
+            <p>Você é a melhor parte dos meus dias. Obrigado por estar comigo e me fazer tão feliz. Te amo! ❤️</p>
+        </div>
+        <div class="section">
+            <h2>Playlist Especial</h2>
+            <ul>
+                <li>Música 1 - [Artista]</li>
+                <li>Música 2 - [Artista]</li>
+                <li>Música 3 - [Artista]</li>
+            </ul>
+        </div>
+        <div class="section">
+            <h2>Cronologia do Amor</h2>
+            <p>💖 01/07/2023: O início da nossa história<br>
+               💖 24/12/2023: Nosso primeiro Natal juntos<br>
+               💖 [Insira mais datas especiais]</p>
+        </div>
+    </div>
+    <footer>
+        <p>Feito com amor por você! ❤️</p>
+    </footer>
+</body>
+</html>
